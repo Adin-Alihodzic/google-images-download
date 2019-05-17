@@ -38,10 +38,10 @@ setup(
     keywords='google images download save filter color image-search image-dataset image-scrapper image-gallery terminal command-line',
     packages=find_packages(exclude=['docs', 'tests*']),
     include_package_data=True,
-    author='Hardik Vasa',
+    author='xxx',
     install_requires=install_requires,
     dependency_links=dependency_links,
-    author_email='hnvasa@gmail.com',
+    author_email='@gmail.com',
     entry_points={
         'console_scripts': [
             'googleimagesdownload = google_images_download.google_images_download:main'
